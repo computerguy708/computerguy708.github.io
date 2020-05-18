@@ -30,7 +30,9 @@ github_username:  henryfbp
 # Build settings
 theme: minima
 plugins:
+  - jekyll-liquify
   - jekyll-feed
+  - jekyll-katex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
